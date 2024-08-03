@@ -38,4 +38,8 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ghost970916&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D&background=EB545400&fire=FF9C0E&ring=FFAD0FB4&dates=FFFFFF" alt="GitHub Streak" /></a>
 </section>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@gustavomar19506/30-nites-of-code)  
+  ![@gustavomar19506 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=gustavomar19506)
+
 
